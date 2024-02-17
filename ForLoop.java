@@ -4,5 +4,10 @@ public class ForLoop {
         for (int i = 0;i <= 10;i++){
             System.out.println(i);
         }
+        
+        // Printing number from 10 to 0 using for loop.
+        for (int i = 10;i >= 0;i--){
+            System.out.println(i);
+        }
     }
 }
